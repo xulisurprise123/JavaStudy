@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringDay011" />
+        <module name="SpringDay012" />
+        <module name="SpringDay013" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Spring011" target="8" />
+      <module name="Spring012" target="8" />
+      <module name="Spring_day01_01_ioc入门程序" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
